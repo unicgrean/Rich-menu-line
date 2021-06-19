@@ -1,0 +1,59 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "Menu",
+  "chatBarText": "W3 Hotel",
+  "areas": [
+    {
+      "bounds": {
+        "x": 1002,
+        "y": 30,
+        "width": 1428,
+        "height": 769
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://w3hatyai.com/room.php?lang=en"
+      }
+    },
+    {
+      "bounds": {
+        "x": 81,
+        "y": 927,
+        "width": 683,
+        "height": 673
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://www.facebook.com/W3HotelHatyai/posts/825607898352751"
+      }
+    },
+    {
+      "bounds": {
+        "x": 940,
+        "y": 929,
+        "width": 685,
+        "height": 671
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://l.facebook.com/l.php?u=https://www.google.com/maps/dir/?api=1&destination=7.0119322102373%2C100.48333078623&fbclid=IwAR1GBgwjUxdCMh87hfmiQl08ozp3nXJPaH0UJdrG6pn-C9f2VydeOu0Qs9w&h=AT3emafYNNOncKCVg20oj1I-N2BRHW-nEUBf_AHr4cvZ8lF5fb5vjK-E7EiSDsa3UTLmBWZ88npm0hmO1qsJYEVKUe3VhmMbibLRQhUlq9gpy_iAeb5oNxjmmdREVU9Anjrafw"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1754,
+        "y": 925,
+        "width": 689,
+        "height": 676
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://www.facebook.com/W3HotelHatyai/posts/763392671240941"
+      }
+    }
+  ]
+}
